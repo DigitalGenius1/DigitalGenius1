@@ -10,7 +10,7 @@ I help businesses get reliable, high-value outputs from AI systems through caref
 - 🌱 I'm currently learning **agentic AI workflow design and human-in-the-loop evaluation**
 - 🎓 Completing my **MSc International Business at SOAS University of London**, with a dissertation on **how AI-driven decision engines influence strategic decision-making in early-stage entrepreneurship**
 - 🌍 Based across **London · Kuwait · Portland**, working remotely
-- 🗣️ Languages: **English · Arabic · French (basic)
+- 🗣️ Languages: English · Arabic · French (basic)
 - 📫 Reach me at **khaled.b.aljarallah@gmail.com**
 - ⚡ Fun fact: **I think with AI, not just at it**
 
